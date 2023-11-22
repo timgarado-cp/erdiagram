@@ -1,5 +1,4 @@
-# Laravel Nova Project
-Exploring Laravel Nova
+# Laravel Project
 
 ## Table of Contents
 
